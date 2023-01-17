@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  iOS_task3.4_InterestingNumberLibrary
+
+  Created by Roman Ivanov on 17.01.2023.
+  
+*/
+
+"url_is_invalid" = "URL-адреса кінцевої точки недійсна";
+"invalid_response_status" = "APIO не зміг надати дійсну відповідь";
+"corrupt_data" = "Надані дані являються пошкодженими";

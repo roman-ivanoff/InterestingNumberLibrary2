@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  iOS_task3.4_InterestingNumberLibrary
+
+  Created by Roman Ivanov on 17.01.2023.
+  
+*/
+
+"url_is_invalid" = "The endpoint URL is invalid";
+"invalid_response_status" = "The APIO failed to issue a valid response.";
+"corrupt_data" = "The data provided appears to be corrupt";
